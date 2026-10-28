@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-10-28T20:23:05.130Z",
+  "results": [
+    {
+      "key": "quakes",
+      "ok": true,
+      "http": 200,
+      "cors": "*",
+      "records": 239,
+      "sourceTime": "2026-10-28T20:22:25.000Z"
+    },
+    {
+      "key": "week",
+      "ok": true,
+      "http": 200,
+      "cors": "*",
+      "records": 351,
+      "sourceTime": "2026-10-28T20:22:34.000Z"
+    },
+    {
+      "key": "kp",
+      "ok": true,
+      "http": 200,
+      "cors": "*",
+      "records": 62,
+      "sourceTime": "2026-10-28T15:00:00.000Z"
+    },
+    {
+      "key": "solar",
+      "ok": true,
+      "http": 200,
+      "cors": "*",
+      "records": 123,
+      "sourceTime": "2026-10-28T17:00:00.000Z"
+    },
+    {
+      "key": "alerts",
+      "ok": true,
+      "http": 200,
+      "cors": "*",
+      "records": 89,
+      "sourceTime": "2026-10-28T16:38:01.100Z"
+    },
+    {
+      "key": "weather",
+      "ok": true,
+      "http": 200,
+      "cors": "*",
+      "records": 72,
+      "sourceTime": "2026-10-28T20:15:00.000Z"
+    }
+  ]
+}

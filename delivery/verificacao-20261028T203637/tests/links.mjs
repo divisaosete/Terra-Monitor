@@ -1,0 +1,3 @@
+import{readFile,writeFile}from'node:fs/promises';import{education,volcanoes}from'../assets/content.js';
+const urls=[...new Set([...Object.values(education).map(e=>e[3]),...volcanoes.map(v=>v.url),'https://divisaosete.com/new-era-labs/','https://www.swpc.noaa.gov/products/alerts-watches-and-warnings','https://www.openstreetmap.org/copyright'])];
+const results=[];for(const url of urls){try{const r=await fetch(url,{signal:AbortSignal.timeout(15000)});await r.body?.cancel();results.push({url,status:r.status,final:r.url})}catch(e){results.push({url,error:e.message})}}await writeFile('tests/link-results.json',JSON.stringify({checkedAt:new Date().toISOString(),results},null,2));console.log(JSON.stringify(results,null,2));

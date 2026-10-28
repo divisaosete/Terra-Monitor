@@ -1,0 +1,18 @@
+✔ UTC explícito e formatos NOAA (4.3093ms)
+✔ USGS valida geometria e rejeita magnitudes ausentes (1.631ms)
+✔ Kp suporta objetos e cabeçalho tabular; ordena e limita escala (2.9519ms)
+✔ F10.7 e comunicados usam adaptadores próprios (5.5879ms)
+✔ Meteorologia mantém zero e rejeita ausência (1.2424ms)
+✔ Filtros, região e ordenação independentes (0.6651ms)
+✔ CSV preserva aspas, UTC e neutraliza fórmulas (6.7078ms)
+✔ Status distingue antigo, falha e indisponível (0.5798ms)
+✔ Links rejeitam scripts e domínios incorretos (7.9146ms)
+✔ Cache, erro HTTP, fallback antigo e resposta inválida (4.9982ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1139.004

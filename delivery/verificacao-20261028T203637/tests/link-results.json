@@ -1,0 +1,90 @@
+{
+  "checkedAt": "2026-10-28T20:30:35.424Z",
+  "results": [
+    {
+      "url": "https://www.usgs.gov/programs/earthquake-hazards",
+      "status": 403,
+      "final": "https://www.usgs.gov/programs/earthquake-hazards"
+    },
+    {
+      "url": "https://www.usgs.gov/programs/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity",
+      "status": 403,
+      "final": "https://www.usgs.gov/programs/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity"
+    },
+    {
+      "url": "https://www.swpc.noaa.gov/phenomena/f107-cm-radio-emissions",
+      "status": 200,
+      "final": "https://www.spaceweather.gov/phenomena/f107-cm-radio-emissions"
+    },
+    {
+      "url": "https://www.swpc.noaa.gov/products/planetary-k-index",
+      "status": 200,
+      "final": "https://www.spaceweather.gov/products/planetary-k-index"
+    },
+    {
+      "url": "https://volcano.si.edu/",
+      "status": 403,
+      "final": "https://volcano.si.edu/"
+    },
+    {
+      "url": "https://open-meteo.com/en/docs",
+      "status": 200,
+      "final": "https://open-meteo.com/en/docs"
+    },
+    {
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php",
+      "status": 200,
+      "final": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+    },
+    {
+      "url": "https://www.swpc.noaa.gov/",
+      "status": 200,
+      "final": "https://www.spaceweather.gov/"
+    },
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=263250",
+      "status": 403,
+      "final": "https://volcano.si.edu/volcano.cfm?vn=263250"
+    },
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=211060",
+      "status": 403,
+      "final": "https://volcano.si.edu/volcano.cfm?vn=211060"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes/kilauea",
+      "status": 403,
+      "final": "https://www.usgs.gov/volcanoes/kilauea"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes/mount-st.-helens",
+      "status": 403,
+      "final": "https://www.usgs.gov/volcanoes/mount-st.-helens"
+    },
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=341090",
+      "status": 403,
+      "final": "https://volcano.si.edu/volcano.cfm?vn=341090"
+    },
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=357120",
+      "status": 403,
+      "final": "https://volcano.si.edu/volcano.cfm?vn=357120"
+    },
+    {
+      "url": "https://divisaosete.com/new-era-labs/",
+      "status": 200,
+      "final": "https://divisaosete.com/new-era-labs/"
+    },
+    {
+      "url": "https://www.swpc.noaa.gov/products/alerts-watches-and-warnings",
+      "status": 200,
+      "final": "https://www.spaceweather.gov/products/alerts-watches-and-warnings"
+    },
+    {
+      "url": "https://www.openstreetmap.org/copyright",
+      "status": 429,
+      "final": "https://www.openstreetmap.org/copyright"
+    }
+  ]
+}

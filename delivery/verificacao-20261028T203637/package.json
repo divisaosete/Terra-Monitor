@@ -1,0 +1,1 @@
+{"name":"terra-monitor","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node tests/server.mjs","test":"node --test tests/unit.test.mjs","check":"node --check assets/app.js && node --check assets/services.js"}}
